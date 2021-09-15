@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19160334-244e-498d-9098-ea9041e8d032" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../../GoLang" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1wr5FGuMipbjnzn2o6J93KRXpxJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm/stringops" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\软件安装目录\Goland\GoPathDir\src\leetcode_set\algorithm\stringops" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="goRunner" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="leetcode_set" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="leetcode_set" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="47" width="1086" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629204408192">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state x="225" y="47" width="1086" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629204408192" />
+    <state x="4694" y="365" width="397" height="493" key="#xdebugger.XInspectDialog" timestamp="1629812013143">
+      <screen x="3840" y="104" width="1920" height="877" />
+    </state>
+    <state x="4694" y="365" width="397" height="493" key="#xdebugger.XInspectDialog/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629812013143" />
+    <state x="525" y="94" key="#xdebugger.evaluate" timestamp="1629702237225">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state x="525" y="94" key="#xdebugger.evaluate/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629702237225" />
+    <state width="477" height="438" key="DebuggerActiveHint" timestamp="1629883434181">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="477" height="438" key="DebuggerActiveHint/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629883434181" />
+    <state x="550" y="147" key="FileChooserDialogImpl" timestamp="1629256858513">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state x="550" y="147" key="FileChooserDialogImpl/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629256858513" />
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1629960011199">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629960011199" />
+    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1629960011199">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.center/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629960011199" />
+    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1629960011199">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.left/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629960011199" />
+    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1629960011199">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.right/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629960011199" />
+    <state width="1493" height="245" key="GridCell.Tab.1.bottom" timestamp="1629960011199">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.1.bottom/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629960011199" />
+    <state width="1493" height="245" key="GridCell.Tab.1.center" timestamp="1629960011199">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.1.center/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629960011199" />
+    <state width="1493" height="245" key="GridCell.Tab.1.left" timestamp="1629960011199">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.1.left/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629960011199" />
+    <state width="1493" height="245" key="GridCell.Tab.1.right" timestamp="1629960011199">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.1.right/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629960011199" />
+    <state x="271" y="37" key="SettingsEditor" timestamp="1629257997747">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state x="271" y="37" key="SettingsEditor/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629257997747" />
+    <state width="774" height="398" key="XDebugger.FullValuePopup" timestamp="1629883028674">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state width="774" height="398" key="XDebugger.FullValuePopup/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629883028674" />
+    <state x="369" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1629811442404">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state x="369" y="256" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629811442404" />
+    <state x="431" y="104" width="672" height="678" key="search.everywhere.popup" timestamp="1629948908003">
+      <screen x="0" y="0" width="1536" height="783" />
+    </state>
+    <state x="431" y="104" width="672" height="678" key="search.everywhere.popup/3840.104.1920.877/0.0.1536.783@0.0.1536.783" timestamp="1629948908003" />
+  </component>
+</project>
